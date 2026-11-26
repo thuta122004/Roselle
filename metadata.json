@@ -1,0 +1,6 @@
+{
+  "name": "Roselle — Personal & Family Expense & Savings Tracker",
+  "description": "A calm, minimalist personal and family expense, multi-account, and savings goal tracker with analytics and Supabase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
